@@ -1,6 +1,6 @@
 /*
 	Nama    : Muhamad Fahrul Azimi, Dzikri Algiffari, Archi Cantona Rusanggara
-	NPM     : 140810180027, 140810180057, 140810180050
+	NPM     : 140810180027, 140810180053, 140810180050
 	Kelas   : A
 	Tanggal : 26 September 2020
 	Program : Hill Cipher
